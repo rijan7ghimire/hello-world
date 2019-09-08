@@ -1,0 +1,18 @@
+calculator:
+    press:
+        + to add
+        -to subtract 
+        * to multiply 
+        / to divide 
+  
+ select ;+
+        
+enter two numbers :4 5
+4+5 =9
+
+
+enter a character :a
+ vowel 
+exp ==>a,e,i,o,u ==>vowel
+    ==>bahek ma ==>consonent
+    ==> alphabet==> is not a alphabet
