@@ -1,0 +1,4 @@
+for (initialization(i=1); condition(i<=10); updation(increment or decrement{i++}))
+{
+statements
+}
