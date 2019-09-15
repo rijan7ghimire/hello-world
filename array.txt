@@ -1,6 +1,6 @@
 /*array is a variable with multiple values under a same name and and same data type 
 int X==>  _==>one space
-int x[5] ==>_0 _1 _2 _3 _4
+int x[5] ==>_0 _1 _2 _3 _4==>Indexing 
 x[0]=3
 single dimension ??
 multi dimension ??
