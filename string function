@@ -21,4 +21,27 @@ strcmp(str1,str2)==>Left str> right str==>positive integer{itis based on ASCII c
                     str2="ABC"==>65,66,67==>0
                      str1="ACB"==>65,67,66==>1
                     str2="ABC"==>65,66,6
-                   
+  ==>funtion is a block of code executed when called 
+  3 parts
+  ==>funtion declarations'
+  ==>function definitions'
+  ==>function call'
+  #include<stdio.h>
+eg==> of funtion
+void add() //funtion declaration
+
+
+void main()
+{
+add(); //funtion calling
+}
+
+
+void add() //defination
+{
+    int x,y;
+    printf("enter two numbers ;");
+    scanf("%d%d",&x,&y);
+    printf("%d +%d = ",x+y);
+
+}
